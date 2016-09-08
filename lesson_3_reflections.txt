@@ -21,7 +21,7 @@ paste everything . Branches is separetion of master branches any purpose of us.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It's beneficial to know what you do last time, all the process.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
