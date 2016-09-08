@@ -32,4 +32,5 @@ for collaborate.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+   You don't have to change main code, you can add new branch and try new feature
+you want to add to your program.
